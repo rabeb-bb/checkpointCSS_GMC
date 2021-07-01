@@ -1,0 +1,101 @@
+/* initiating */
+* {
+  margin: 0px;
+  padding: 0px;
+}
+/* body */
+body {
+  text-align: center;
+  width: 80%;
+  margin: auto;
+  background-color: peachpuff;
+}
+/* the header */
+/* the style for the navigation bar */
+ul {
+  display: inline;
+  background-color: rgb(9, 51, 53);
+  padding: 2px;
+  margin: 30px;
+}
+li {
+  display: inline;
+  margin: 20px;
+}
+
+ul a {
+  text-decoration: none;
+  color: beige;
+}
+.logo {
+  margin: 10px;
+  float: left;
+  border-color: midnightblue;
+}
+header {
+  margin: 50px;
+  padding: 25px;
+}
+
+/* the style for h1 */
+h1 {
+  color: mediumseagreen;
+  margin: 3%;
+}
+
+/*  the main part */
+main p {
+  padding: 5px;
+  margin: 20px;
+}
+/* about part */
+#about {
+  margin: 5%;
+}
+#about img {
+  float: right;
+  margin: 10px;
+  height: 8em;
+}
+/* my work section */
+.projects {
+  display: inline-block;
+  width: 30%;
+}
+.projects h4 {
+  padding: 2%;
+  margin: 2%;
+}
+video,
+iframe {
+  height: 15em;
+  width: 20em;
+}
+
+/* my skills section */
+.skills {
+  display: inline-block;
+  width: 40%;
+  margin: 10px;
+}
+.skills p {
+  margin: 10px;
+}
+
+/* footer part */
+footer {
+  background-color: cadetblue;
+}
+.cont {
+  display: inline-block;
+  width: 30%;
+  text-align: left;
+  margin: 5%;
+}
+.cont p {
+  margin: 1%;
+  margin-top: 0px;
+}
+.cont img {
+  height: 30px;
+}
